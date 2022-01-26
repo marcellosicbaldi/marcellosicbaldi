@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### I am Marcello, master student in Neuroengineering!
+#### I am Marcello, master student in Neuroengineering!
 
 - 🔭 I’m currently working on Deep Learning applied to EEG processing and decoding
 
