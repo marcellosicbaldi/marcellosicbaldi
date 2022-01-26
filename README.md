@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+##### I am Marcello, master student in Neuroengineering!
+
+- 🔭 I’m currently working on Deep Learning applied to EEG processing and decoding
+
+- 📫 How to reach me: marcellosicbaldi24@gmail.com
+
 <!--
 **marcellosicbaldi/marcellosicbaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
