@@ -4,7 +4,7 @@
 
 - 🌱 I am passionate about signal processing, machine learning and deep learning
 
-- 🔭 I am currently working on Deep Learning applied to EEG processing and decoding
+- 🔭 I am currently working on deep learning applied to EEG processing and decoding
 
 - 📫 How to reach me: marcellosicbaldi24@gmail.com
 
