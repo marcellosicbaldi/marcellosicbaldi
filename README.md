@@ -2,7 +2,9 @@
 
 #### I am Marcello, master student in Neuroengineering!
 
-- 🔭 I’m currently working on Deep Learning applied to EEG processing and decoding
+- 🌱 I am passionate about signal processing, machine learning and deep learning
+
+- 🔭 I am currently working on Deep Learning applied to EEG processing and decoding
 
 - 📫 How to reach me: marcellosicbaldi24@gmail.com
 
