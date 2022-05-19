@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am Marcello, master student in Neuroengineering!
+#### I am Marcello, master student in Biomedical Engineering!
 
 - 🌱 I am passionate about signal processing, machine learning and deep learning
 
