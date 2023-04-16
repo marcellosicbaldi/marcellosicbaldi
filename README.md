@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#### I am Marcello, master student in Biomedical Engineering!
+#### I am Marcello, PhD student in Biomedical Engineering!
 
 - 🌱 I am passionate about signal processing, machine learning and deep learning
 
-- 🔭 I am currently working on deep learning applied to EEG decoding
+- 🔭 I am currently working on deep learning applied to wearable sensor data 
 
 - 📫 How to reach me: marcellosicbaldi24@gmail.com
 
